@@ -32,6 +32,11 @@ export const styles = StyleSheet.create({
     padding: 10,
     fontSize: 12
   },
+  validMessage: {
+    color: 'green',
+    padding: 10,
+    fontSize: 12
+  },
   button: {
     borderWidth: 1,
     paddingBottom: 40,
